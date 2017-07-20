@@ -1,0 +1,14 @@
+body {
+background: #E9E6FF;
+font-family: 'Courgette', cursive;
+}
+
+h1 {
+    color:purple;
+    
+    font-size:48px;
+    
+    img
+       display:block;
+       height:50px;
+       width:50;
